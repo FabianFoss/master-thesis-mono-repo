@@ -1,0 +1,6 @@
+image: /home/fabianfossbudal/repos/master-thesis-mono-repo/nav2_ws/src/map/gf_hallway.png
+resolution: 0.03246851388
+origin: [0.0, -11.13, 0.0]
+negate: 0
+occupied_thresh: 0.65
+free_thresh: 0.196

@@ -1,0 +1,8 @@
+**/build/**
+**/log/**
+**/install/**
+**.mp4
+**.pth
+**/__pychache__/**
+*.pt
+*/firebase_credentials.json
