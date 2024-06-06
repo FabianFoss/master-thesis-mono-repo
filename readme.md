@@ -48,7 +48,7 @@ This is the structure of the project:
 - [Drone-frontend](https://github.com/Carlvebbesen/Drone-frontend.git)
 
 ## Dependencies
-- Ros2
+- Ros2 (humble)
 - OpenCV
 - Python and various python libraries
 - Distdepth (https://github.com:facebookresearch/DistDepth.git)
