@@ -36,6 +36,16 @@ This is the structure of the project:
     └── Drone-frontend # https://github.com/Carlvebbesen/Drone-frontend.git
 
 ```
+### Links to the Repositories
+- [Drone-deviation-service](https://github.com/Carlvebbesen/Drone-deviation-service)
+- [depthimage_to_laserscan](https://github.com/FabianFoss/depthimage_to_laserscan.git)
+- [DistDepth](https://github.com:facebookresearch/DistDepth.git)
+- [MiDaS](https://github.com/FabianFoss/MiDaS.git)
+- [vision_opencv](https://github.com/ros-perception/vision_opencv.git)
+- [ORB_SLAM3_ROS2](https://github.com:FabianFoss/ORB_SLAM3_ROS2.git)
+- [rgb-to-depth-converter](https://github.com/FabianFoss/rgb-to-depth-converter.git)
+- [tello-ros2-driver](https://github.com/FabianFoss/tello-ros2-driver.git)
+- [Drone-frontend](https://github.com/Carlvebbesen/Drone-frontend.git)
 
 ## Dependencies
 - Ros2
