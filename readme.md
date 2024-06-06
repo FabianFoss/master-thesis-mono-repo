@@ -12,7 +12,7 @@ These are some notable contributions to the open-source community of aerial robo
 - Convert data from ORB-SLAM3 to PointCloud2 in order to populate costmaps in Nav2
 
 ## Problems
-We struggle to accurately localize the drone, much due to the poor readings from the tello drone and lack of sensor technologies. it would be interesting to see of someone could apply a smarter drone and voxel layers to this approach.
+We struggle to accurately localize the drone, much due to the poor readings from the tello drone and lack of sensory data. it would be interesting to see of someone could apply a smarter drone and add voxel layers to this approach.
 
 ## Project structure
 This is the structure of the project:
