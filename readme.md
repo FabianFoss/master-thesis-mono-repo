@@ -21,31 +21,31 @@ This is the structure of the project:
 ├── deviation_detection
 │   └── Drone-deviation-service # https://github.com/Carlvebbesen/Drone-deviation-service
 ├── ros2
-│   ├── depthimage_to_laserscan # https://github.com/FabianFoss/depthimage_to_laserscan.git
+│   ├── depthimage_to_laserscan # https://github.com/FabianFoss/depthimage_to_laserscan
 │   ├── inspection_ws
 │   ├── libs
-│   │   ├── DistDepth # https://github.com:facebookresearch/DistDepth.git
-│   │   └── MiDaS # https://github.com/FabianFoss/MiDaS.git
+│   │   ├── DistDepth # https://github.com/facebookresearch/DistDepth
+│   │   └── MiDaS # https://github.com/FabianFoss/MiDaS
 │   ├── nav2_ws
 │   ├── opencv_ws
-│   │   └── vision_opencv # https://github.com/ros-perception/vision_opencv.git
-│   ├── ORB_SLAM3_ROS2 # https://github.com:FabianFoss/ORB_SLAM3_ROS2.git
-│   ├── rgb-to-depth-converter # https://github.com/FabianFoss/rgb-to-depth-converter.git
-│   └── tello-ros2-driver # https://github.com/FabianFoss/tello-ros2-driver.git
+│   │   └── vision_opencv # https://github.com/ros-perception/vision_opencv
+│   ├── ORB_SLAM3_ROS2 # https://github.com/FabianFoss/ORB_SLAM3_ROS2
+│   ├── rgb-to-depth-converter # https://github.com/FabianFoss/rgb-to-depth-converter
+│   └── tello-ros2-driver # https://github.com/FabianFoss/tello-ros2-driver
 └── web
-    └── Drone-frontend # https://github.com/Carlvebbesen/Drone-frontend.git
+    └── Drone-frontend # https://github.com/Carlvebbesen/Drone-frontend
 
 ```
 ### Links to the Repositories
 - [Drone-deviation-service](https://github.com/Carlvebbesen/Drone-deviation-service)
-- [depthimage_to_laserscan](https://github.com/FabianFoss/depthimage_to_laserscan.git)
-- [DistDepth](https://github.com:facebookresearch/DistDepth.git)
-- [MiDaS](https://github.com/FabianFoss/MiDaS.git)
-- [vision_opencv](https://github.com/ros-perception/vision_opencv.git)
-- [ORB_SLAM3_ROS2](https://github.com:FabianFoss/ORB_SLAM3_ROS2.git)
-- [rgb-to-depth-converter](https://github.com/FabianFoss/rgb-to-depth-converter.git)
-- [tello-ros2-driver](https://github.com/FabianFoss/tello-ros2-driver.git)
-- [Drone-frontend](https://github.com/Carlvebbesen/Drone-frontend.git)
+- [depthimage_to_laserscan](https://github.com/FabianFoss/depthimage_to_laserscan)
+- [DistDepth](https://github.com:facebookresearch/DistDepth)
+- [MiDaS](https://github.com/FabianFoss/MiDaS)
+- [vision_opencv](https://github.com/ros-perception/vision_opencv)
+- [ORB_SLAM3_ROS2](https://github.com/FabianFoss/ORB_SLAM3_ROS2)
+- [rgb-to-depth-converter](https://github.com/FabianFoss/rgb-to-depth-converter)
+- [tello-ros2-driver](https://github.com/FabianFoss/tello-ros2-driver)
+- [Drone-frontend](https://github.com/Carlvebbesen/Drone-frontend)
 
 ## Dependencies
 - Ros2 (humble)
